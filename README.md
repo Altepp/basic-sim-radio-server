@@ -2,7 +2,6 @@
 
 ##### Avalaible here: `http://127.0.0.1:8000`
 
-
 ## Add music
 
 * Go to the server root
