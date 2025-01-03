@@ -2,3 +2,5 @@
 /music
 /node_modules
 **/*.ts
+legacy
+/cached_music
