@@ -1,4 +1,4 @@
 /.vscode
 /music
 /node_modules
-**/*.py
+**/*.ts
